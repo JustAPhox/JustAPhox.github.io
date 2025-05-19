@@ -1,13 +1,56 @@
-body {
-  background-color: #cff571;
+ /*
+ Pink #ee427f
+ Green #cff571
+ 
+ 
+ 
+ */
+
+
+
+
+
+* {
+	background-color: #ee427f;
+}
+
+
+.mainborder {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+
+
+hr.mainborder {
+    border-bottom: 0px;
+}
+
+
+
+
+
+body *{
+    background-color: #cff571;
 }
 
 h1 {
-  text-align: center;
-  color: #ee427f;
+    text-align: center;
+    color: #ee427f;
 }
 
 p {
+    color: #ee427f;
 
+}
 
+body {
+    background-color: #cff571;
+    border-style: solid;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
 }
