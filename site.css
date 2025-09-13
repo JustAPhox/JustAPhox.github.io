@@ -40,9 +40,15 @@ h1 {
     color: #ee427f;
 }
 
+h2 {
+    text-align: center;
+    color: #ee427f;
+}
+
 p {
     color: #ee427f;
-
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 body {
