@@ -41,14 +41,17 @@ h1 {
 }
 
 h2 {
-    text-align: center;
     color: #ee427f;
+    margin-right: 40px;
+    margin-left: 40px;
+    font-size: xx-large;
 }
 
 p {
     color: #ee427f;
     margin-right: 40px;
     margin-left: 40px;
+    font-size: large;
 }
 
 body {
